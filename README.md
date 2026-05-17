@@ -19,6 +19,6 @@ Semifinalist at the UCI Stella Zhang New Venture Competition and the Beall & But
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript, C/C++, Java, SQL, HTML, CSS
-**Frameworks:** React.js, React Native, Node.js, Express.js, Next.js, Tailwind CSS, Pandas, Scikit-learn
+**Languages:** Python, JavaScript, TypeScript, C/C++, Java, SQL, HTML, CSS  
+**Frameworks:** React.js, React Native, Node.js, Express.js, Next.js, Tailwind CSS, Pandas, Scikit-learn  
 **Tools:** PostgreSQL, Supabase, Neon, Git, Figma, Postman, Vercel, Arduino, Jetson Nano, Tiva C
