@@ -1,6 +1,6 @@
 # Hi, I'm Linh
 
-Master's student in Computer Science at UC Irvine (graduating Dec 2026), previously BS in Computer Science and Engineering with a 3.86 GPA. I build full-stack apps, dabble in Machine Learning, and occasionally make robots walk.
+Master's student in Computer Science at UC Irvine (graduating Dec 2026), previously BS in Computer Science and Engineering. I build full-stack apps, dabble in Machine Learning, and occasionally make robots walk.
 
 Currently looking for **software engineering internships**.
 
