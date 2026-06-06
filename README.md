@@ -3,9 +3,9 @@ Master's student in Computer Science at UC Irvine (graduating Dec 2026), previou
 Currently looking for **software engineering internships**.
 
 ## Recognition
-🥈 **2nd place** — 2026 UCI MCS ICS Expo *(Ableware)*
-🏅 **Semifinalist** — 2026 UCI Stella Zhang New Venture Competition *(Pawse)*
-🏅 **Semifinalist** — 2026 Beall & Butterworth Product Design Competition *(Pawse)*
+- **2nd place** — 2026 UCI MCS ICS Expo *(Ableware)*
+- **Semifinalist** — 2026 UCI Stella Zhang New Venture Competition *(Pawse)*
+- **Semifinalist** — 2026 Beall & Butterworth Product Design Competition *(Pawse)*
 
 ## Projects
 **[Pawse](https://github.com/linh-on/pawse)** — A phone lockbox startup combining hardware (ESP32 + servo motor) with a React Native app and a fine-tuned MobileBERT notification classifier. Built for schools and individuals to stay focused.
