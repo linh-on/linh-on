@@ -7,7 +7,7 @@ Currently looking for **software engineering internships**.
 ## What I'm Working On
 
 **[Pawse](https://github.com/linh-on/pawse)** — A phone lockbox startup combining hardware (ESP32 + servo motor) with a React Native app and a fine-tuned MobileBERT notification classifier. Built for schools and individuals to stay focused.
-Semifinalist at the UCI Stella Zhang New Venture Competition and the Beall & Butterworth Product Design Competition.
+Semifinalist at the 2026 UCI Stella Zhang New Venture Competition and the 2026 Beall & Butterworth Product Design Competition.
 
 ## Projects
 
